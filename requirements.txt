@@ -1,0 +1,6 @@
+pygame-ce
+sounddevice
+numpy
+requests
+opencv-python
+mediapipe

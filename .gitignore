@@ -1,0 +1,8 @@
+lumi.env
+*.env
+!lumi.env.example
+lumi_history.json
+lumi_photos/
+gesture_recognizer.task
+_lumi_tmp.wav
+__pycache__/
